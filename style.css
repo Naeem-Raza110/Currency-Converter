@@ -38,10 +38,10 @@ input[type="number"], select {
     box-sizing: border-box; 
 } 
 
-/* input[type="number"]:focus, select:focus {
+input[type="number"]:focus, select:focus {
     border-color: #0056b3;
     outline: none;
-} */
+}
 
 button {
     padding: 12px;
